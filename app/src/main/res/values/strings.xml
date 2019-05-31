@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Axiom App</string>
+    
+	<string name="load">Load</string>
+	<string name="gallery">Gallery</string>
+	<string name="slideshow">Slideshow</string>
+	<string name="tools">Tools</string>
+</resources>
